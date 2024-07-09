@@ -1,0 +1,20 @@
+{
+  "board": "icezum",
+  "boardRules": true,
+  "allowInoutPorts": false,
+  "collection": "/nix/store/larvw2yhv037fqc4rvi16c1naxqjjvdq-icestudio-app-0.12/resources/collection",
+  "language": "en",
+  "uiTheme": "dark",
+  "externalCollections": "",
+  "externalPlugins": "",
+  "remoteHostname": "",
+  "showFPGAResources": false,
+  "displayVersionInfoWindow": "yes",
+  "lastVersionReview": "0.12.1w-nixos",
+  "loggingEnabled": false,
+  "loggingFile": "",
+  "pythonEnv": {
+    "python": "",
+    "pip": ""
+  }
+}
